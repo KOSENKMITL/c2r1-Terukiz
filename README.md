@@ -106,3 +106,8 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+# Teruki Nattanon Sato
+Class / Major : C2R2 / Computer Engineering
+Interests : Electrical Circuit, Digital Circuit and IoT
+Hobbies : Read a manga and Watch an anime
